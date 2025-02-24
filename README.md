@@ -10,14 +10,28 @@
 <img src ="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 <img src ="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js">
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xollll/Xollll/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xollll/Xollll/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Xollll/Xollll/output/github-snake.svg" />
+</picture>
+
 </div>
- 
-# 💫 About Me:
-🔭 I'm currently working on building my skills as a Software Engineering <br>      student with a focus on both full-stack web and mobile development.<br><br>🤝 I'm looking for help with best practices for structuring large-scale <br>      applications and advanced Flutter techniques.<br><br>🌱 I’m currently learning Flutter, to become a full-stack mobile developer <br>      in addition to my web development pursuits.<br><br>⚡ Fun fact : I love being creative in all my projects—whether it’s a new feature <br>      or a slick UI design!
 
+<br>
 
+🔭 Building skills as a Software Engineering student focusing on full-stack web & mobile development.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xollll&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+🤝 Seeking advice on structuring large-scale apps and advanced Flutter techniques. 
+
+🌱 Currently learning Flutter for full-stack mobile development alongside web. 
+
+⚡ Fun fact: I love adding creativity to every project!
+
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xollll&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Xollll&icon=2&color=0)](https://visitcount.itsvg.in)
