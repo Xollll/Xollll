@@ -24,8 +24,6 @@
 
 🔭 Building skills as a Software Engineering student focusing on full-stack web & mobile development.
 
-🤝 Seeking advice on structuring large-scale apps and advanced Flutter techniques. 
-
 🌱 Currently learning Flutter for full-stack mobile development alongside web. 
 
 ⚡ Fun fact: I love adding creativity to every project!
