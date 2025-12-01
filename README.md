@@ -10,6 +10,17 @@
 <img src ="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" />
 <img src ="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" />
 <img src ="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart"/>
+<img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logoColor=white" alt="YOLO" />
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+
+
+
 
 
  <picture>
@@ -22,9 +33,10 @@
 
 <br>
 
-🔭 Building skills as a Software Engineering student focusing on full-stack web & mobile development.
+🔭 Building skills as a Software Engineering student focusing on full-stack mobile development.
 
-🌱 Currently learning Flutter for full-stack mobile development alongside web. 
+🌱 Currently learning Flutter for full-stack mobile development and exploring AI integration in real-world apps
+. 
 
 ⚡ Fun fact: I love adding creativity to every project!
 
