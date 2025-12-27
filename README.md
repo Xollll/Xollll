@@ -33,12 +33,11 @@
 
 <br>
 
-🔭 Building skills as a Software Engineering student focusing on full-stack mobile development.
+🤖 Software Engineering student focusing on AI integration and real-time systems.
 
-🌱 Currently learning Flutter for full-stack mobile development and exploring AI integration in real-world apps
-. 
+📌 FYP: AgriSenseAI (YOLOv8 + Raspberry Pi + Flutter) 
 
-⚡ Fun fact: I love adding creativity to every project!
+🚀 Interested in applying AI to solve real-world problems.
 
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xollll&theme=onedark&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
