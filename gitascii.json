@@ -1,4 +1,5 @@
 {
+  "username": "Xollll",
   "widgets": [
     {
       "widgetId": "ascii-art",
@@ -31691,40 +31692,6 @@
       "visible": true,
       "zIndex": 3,
       "instanceId": "widget_1789349988318_2"
-    },
-    {
-      "instanceId": "widget_1789352181787",
-      "widgetId": "controlplane-patchbay",
-      "name": "Controlplane-patchbay Widget",
-      "position": {
-        "x": 0,
-        "y": 298
-      },
-      "size": {
-        "width": 800,
-        "height": 248
-      },
-      "config": {
-        "layoutType": "hero",
-        "accentColor": "#00A7D1",
-        "customTitle": "",
-        "customBio": "",
-        "selectedRepos": [
-          "agrisense_fyp",
-          "signspeak",
-          "YOLOv8n--fyp-",
-          "farmer-monitor-system",
-          "PRS-NEXUS",
-          "kolejku_management_system"
-        ],
-        "maxRepos": 6,
-        "animationType": "glitch",
-        "animationPreviewKey": 4,
-        "animationEasing": "ease"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4
     }
   ],
   "globalStyles": {
@@ -31739,5 +31706,6 @@
     "templateStyle": "native",
     "transparentBackground": true
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
