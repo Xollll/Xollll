@@ -1,6 +1,14 @@
+
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Hello+%F0%9F%91%8B+I'm+Zulkarnain)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=800&lines=SOFTWARE+ENGINEERING++%E2%80%A2++DEVELOPMENT++%E2%80%A2++TECHNOLOGY)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=800&lines=Exploring+AI%2C+Automation%2C+Software+Development+%26+Computer+Vision)](https://git.io/typing-svg)
+<img src="office.gif">
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=550&lines=SOFTWARE+ENGINEERING++%E2%80%A2++DEVELOPMENT++%E2%80%A2++TECHNOLOGY)](https://git.io/typing-svg)
+  
+</div>
+
 
 <div align="center">
 
@@ -21,7 +29,7 @@
 <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Xollll/Xollll/output/github-snake-dark.svg" />
@@ -33,15 +41,13 @@
 
 ---
 
-I'm a Software Engineering graduate interested in **AI, software development, and real-time systems**.
-
-🤖 Currently exploring **AI engineering, computer vision, and AI-powered applications**.
+💻 Interested in **software development, automation, web applications, and emerging technologies**.
 
 🌶️ Built **AgriSenseAI**, my FYP project using **YOLOv8, Raspberry Pi, Flutter, and Python** to detect chilli plant diseases in real time.
 
-🛠️ I enjoy building practical projects, especially where **AI, software, and hardware** come together.
+🛠️ I enjoy working across different areas, from **software and backend development to AI, hardware, and real-time systems**.
 
-🚀 Currently learning more about **Python, machine learning, and practical AI development**.
+🚀 Currently exploring **Python, AI, automation, and new technologies** while continuing to improve my software engineering skills.
 
 💡 Always learning, experimenting, and building something new.
 
