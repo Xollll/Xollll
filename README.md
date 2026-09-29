@@ -1,12 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00799C&width=435&lines=Hi%F0%9F%98%8A+I'm+Xollll+%3C3+.....)](https://git.io/typing-svg)
-
-<a href="https://gitascii.com">
-  <img
-    src="https://gitascii.com/api/Xollll?v=1789355851637"
-    alt="GitAscii Widget"
-    width="100%"
-  />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Hello+%F0%9F%91%8B+I'm+Zulkarnain)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=800&lines=SOFTWARE+ENGINEERING++%E2%80%A2++DEVELOPMENT++%E2%80%A2++TECHNOLOGY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=800&lines=Exploring+AI%2C+Automation%2C+Software+Development+%26+Computer+Vision)](https://git.io/typing-svg)
 
 <div align="center">
 
