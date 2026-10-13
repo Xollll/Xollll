@@ -40,16 +40,17 @@
 </div>
 
 ---
+💻 Interested in **software development, data analytics, automation, web applications, and emerging technologies**.
 
-💻 Interested in **software development, automation, web applications, and emerging technologies**.
+🌶️ Built **AgriSenseAI**, my Final Year Project using **YOLOv8, Raspberry Pi, Flutter, and Python** to detect chilli plant diseases in real time.
 
-🌶️ Built **AgriSenseAI**, my FYP project using **YOLOv8, Raspberry Pi, Flutter, and Python** to detect chilli plant diseases in real time.
+📊 Interested in **data analytics and data-driven solutions**, exploring how data can be transformed into meaningful insights to support better decision-making.
 
-🛠️ I enjoy working across different areas, from **software and backend development to AI, hardware, and real-time systems**.
+🛠️ I enjoy working across different areas, from **frontend and backend development to AI, data, hardware integration, and real-time systems**.
 
-🚀 Currently exploring **Python, AI, automation, and new technologies** while continuing to improve my software engineering skills.
+🚀 Currently exploring **Python, SQL, AI, automation, and data analytics** while continuously improving my software engineering and problem-solving skills.
 
-💡 Always learning, experimenting, and building something new.
+💡 Always learning, experimenting, and building solutions that combine technology, data, and innovation.
 
 ---
 
